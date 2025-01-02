@@ -12,3 +12,21 @@ python test.py
 Python
 Keras
 Tensorflow
+
+
+
+## Paper
+
+```
+@article{zhang2024motion,
+  title={Motion Correction for Brain MRI Using Deep Learning and a Novel Hybrid Loss Function.},
+  author={Zhang, Lei and Wang, Xiaoke and Rawson, Michael and Balan, Radu and Herskovits, Edward H and Melhem, Elias R and Chang, Linda and Wang, Ze and Ernst, Thomas},
+  journal={Algorithms},
+  volume={17},
+  number={5},
+  year={2024}
+}
+
+
+```
+
